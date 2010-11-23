@@ -1,0 +1,4 @@
+AuthName "Espace d'administration SupinfoLille2013.fr"
+AuthType Basic
+AuthUserFile "/homez.93/makemywe/supinfolille2013.fr/administration/.htpasswd"
+Require valid-user
